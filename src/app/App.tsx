@@ -1,5 +1,5 @@
-import { GameBoard } from '../features/game'
-import './App.css'
+import { GameBoard } from '@/features/game';
+import './App.css';
 
 function App() {
   return (
